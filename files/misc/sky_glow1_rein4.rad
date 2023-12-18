@@ -1,0 +1,28 @@
+#
+# virtual skydome and ground with constant radiance/luminance
+#
+
+#@rfluxmtx h=u u=Y
+void glow grd_glow
+0
+0
+4 1 1 1 0
+
+grd_glow source ground1
+0
+0
+4 0 0 -1 180
+
+#@rfluxmtx h=r4 u=Y
+
+void glow sky_glow
+0
+0
+4 1 1 1 0
+
+sky_glow source sky1
+0
+0
+4 0 0 1 180
+
+

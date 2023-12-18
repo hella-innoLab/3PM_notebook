@@ -1,0 +1,34 @@
+
+
+void plastic black
+0
+0
+5 0 0 0 0 0
+
+!xform -m black scene/tutorial_room.rad
+
+
+# light gray, diffuse material for blinds
+void plastic blinds_20deg_4room 0 0 5 0.55 0.55 0.55 0.0 0.0
+
+!xform scene/tutorial_room_blinds_20deg.rad
+
+
+# glass with 80% transmission at normal incidence
+# angular data from WINDOW report
+
+void BRTDfunc mat_window
+10
+rrefl grefl brefl
+rtrns gtrns btrns
+0 0 0
+window7_2side.cal
+0
+39 0 0 0
+0 0 0
+0 0 0
+0.801 0.806 0.795 0.780 0.760 0.720 0.629 0.456 0.212 0.000
+0.121 0.114 0.113 0.118 0.132 0.161 0.226 0.372 0.642 1.000
+0.120 0.113 0.110 0.113 0.126 0.152 0.202 0.313 0.543 0.999
+
+!xform scene/tutorial_window.rad

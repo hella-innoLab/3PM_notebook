@@ -1,0 +1,14 @@
+# obj2rad -m tutorial_window.map tutorial_window.obj
+# Rhino
+
+mat_window polygon Glazing_DoublePane_LowE_65.1
+0
+0
+12
+         4.5005126     -0.05000000075        2.450000048
+         4.5005126     -0.05000000075        1.049999952
+      0.4994871914     -0.05000000075        1.049999952
+      0.4994871914     -0.05000000075        2.450000048
+
+# Done processing file: tutorial_window.obj
+# 9 lines, 8 statements, 0 unrecognized
