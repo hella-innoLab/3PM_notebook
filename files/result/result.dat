@@ -1,0 +1,29 @@
+#?RADIANCE
+/Users/marenhaid/anaconda3/envs/daylight_class/lib/python3.11/site-packages/pyradiance/bin/dctimestep /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/tmp.vmx /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/BSDF/AR92S_85.xml /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/seminarraum.dmx /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/tmp.skv
+CAPDATE= 2024:06:16 17:04:42
+GMT= 2024:06:16 15:04:42
+NROWS=20
+NCOLS=1
+NCOMP=3
+FORMAT=ascii
+
+6.154464e-03 7.106018e-03 8.653999e-03
+7.986498e-03 9.071965e-03 1.089145e-02
+1.196454e-02 1.329300e-02 1.564967e-02
+2.441932e-02 2.629085e-02 3.001300e-02
+5.237483e-02 5.551793e-02 6.251843e-02
+7.476280e-03 8.571709e-03 1.034819e-02
+1.015748e-02 1.141966e-02 1.354592e-02
+1.691208e-02 1.845448e-02 2.125797e-02
+3.265436e-02 3.485024e-02 3.928020e-02
+5.747063e-02 6.088714e-02 6.849574e-02
+9.781810e-03 1.106608e-02 1.312522e-02
+1.384974e-02 1.533344e-02 1.781221e-02
+2.202792e-02 2.382249e-02 2.705233e-02
+3.494984e-02 3.732719e-02 4.204566e-02
+5.901568e-02 6.259015e-02 7.043677e-02
+1.250115e-02 1.398228e-02 1.632267e-02
+1.719576e-02 1.889389e-02 2.167800e-02
+2.413190e-02 2.614500e-02 2.964486e-02
+3.641549e-02 3.899585e-02 4.392651e-02
+5.819912e-02 6.184982e-02 6.966206e-02

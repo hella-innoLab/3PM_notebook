@@ -1,0 +1,12 @@
+#?RADIANCE
+/Users/marenhaid/anaconda3/envs/daylight_class/lib/python3.11/site-packages/pyradiance/bin/rmtxop -fa -c 47.448 119.951 11.601 -t /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/result/result.dat
+/Users/marenhaid/anaconda3/envs/daylight_class/lib/python3.11/site-packages/pyradiance/bin/dctimestep /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/tmp.vmx /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/BSDF/AR92S_85.xml /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/seminarraum.dmx /Users/marenhaid/Trainings/2019_RadianceWorkshop_David/3PM_notebook/files/matrices/tmp.skv
+CAPDATE= 2024:06:16 17:04:42
+GMT= 2024:06:16 15:04:42
+Applied 1x3 component transform
+NROWS=1
+NCOLS=20
+NCOMP=1
+FORMAT=ascii
+
+ 1.244786015389000e+00	 1.593486342269000e+00	 2.343753958590000e+00	 4.660442456709999e+00	 9.869788461700001e+00	 1.502968951889000e+00	 2.008897965620000e+00	 3.262691412290000e+00	 6.185394811719999e+00	 1.082495886212000e+01	 1.943780360180000e+00	 2.703043373170000e+00	 4.216546326480000e+00	 6.623505477670000e+00	 1.112506403606000e+01	 2.459702328150000e+00	 3.333731897869999e+00	 4.625039307060000e+00	 6.915024815380001e+00	 1.098852916264000e+01	
